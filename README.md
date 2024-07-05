@@ -12,7 +12,7 @@ Copiar en el config.json:
 ```
 		{
 		"url": "https://github.com/MAngelWar/CustomCards",
-		"repo_name": "MAngelWar's Custom Pack",
+		"repo_name": "EDO's Custom Pack",
 		"repo_path": "./repositories/customcards",
 		"should_update": true,
 		"should_read": true
