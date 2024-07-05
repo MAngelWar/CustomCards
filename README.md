@@ -1,4 +1,4 @@
-# Repo de cartas Custom
+# Repo de cartas Customs
 ## MAngelWar
 <p align="center">
 	<img src="./ignis_logo.png" alt="Multirole logo"/>
