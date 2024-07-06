@@ -1,7 +1,7 @@
 # Repo de cartas Customs
 ## MAngelWar
 <p align="center">
-	<img src="./ignis_logo.png" alt="Multirole logo"/>
+	<img src="./resources/DeckCase2003_L.png" alt="Multirole logo"/>
 </p>
 Contiene pics, script, cdb y algunas ideas.
 
