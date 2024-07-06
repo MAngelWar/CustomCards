@@ -27,7 +27,7 @@ function s.initial_effect(c)
 end
 
 function s.spcon(e,tp,eg,ep,ev,re,r,rp)
-	return Duel.GetTurnPlayer()==1-tp or Duel.IsExistingMatchingCard(aux.FilterFaceupFunction(Card.IsType,TYPE_MONSTER),tp,0,LOCATION_MZONE,1,nil)
+	return Duel.GetTurnPlayer()==1-tp or Duel.IsExistingMatchingCard(aux.FilterFaceup(Card.IsType,TYPE_MONSTER),tp,0,LOCATION_MZONE,1,nil)
 end
 
 function s.spfilter(c)
