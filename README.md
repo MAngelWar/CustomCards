@@ -3,13 +3,14 @@
 <p align="center">
 	<img src="./resources/DeckCase2003_L.png" alt="Multirole logo"/>
 </p>
-Contiene pics, script, cdb y algunas ideas.
+
+## Contiene pics, script, cdb y algunas ideas.
 
 
 Copiar en el config.json:
 
 
-```
+```json
 		{
 		"url": "https://github.com/MAngelWar/CustomCards",
 		"repo_name": "EDO's Custom Pack",
